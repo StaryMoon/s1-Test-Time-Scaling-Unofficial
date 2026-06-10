@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the original paper."
+title: "s1: Simple test-time scaling"
+type: software
+authors:
+  - family-names: Liu
+    given-names: Minghao
+repository-code: "https://github.com/StaryMoon/s1-Test-Time-Scaling-Unofficial"
+license: MIT
+preferred-citation:
+  type: article
+  title: "s1: Simple test-time scaling"
+  authors:
+    - family-names: Muennighoff
+      given-names: Niklas
+    - family-names: Yang
+      given-names: Zitong
+    - family-names: Shi
+      given-names: Weijia
+    - family-names: Li
+      given-names: Xiang Lisa
+    - family-names: Fei-Fei
+      given-names: Li
+    - family-names: Hajishirzi
+      given-names: Hannaneh
+    - family-names: Zettlemoyer
+      given-names: Luke
+    - family-names: Liang
+      given-names: Percy
+    - family-names: Candès
+      given-names: Emmanuel
+    - family-names: Hashimoto
+      given-names: Tatsunori
+  journal: "arXiv preprint arXiv:2501.19393"
+  year: 2025
+  url: "https://arxiv.org/abs/2501.19393"
